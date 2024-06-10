@@ -21,4 +21,3 @@ export interface Property {
   contact: [number, string];
   isAvailable: boolean;
 }
-let play = "Rt";
